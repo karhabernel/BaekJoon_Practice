@@ -127,10 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_BackPack.cpp" />
+    <ClInclude Include="01_BackPack.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="01_BackPack.h" />
+    <ClCompile Include="01_BackPack.cpp" />
+    <ClCompile Include="x64\test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
