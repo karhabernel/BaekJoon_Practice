@@ -20,10 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_BackPack.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="x64\test.cpp">
+    <ClCompile Include="02_1655_SaymiddleGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
