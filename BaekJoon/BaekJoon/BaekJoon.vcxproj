@@ -130,7 +130,7 @@
     <ClInclude Include="01_BackPack.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04_1547_ball.cpp" />
+    <ClCompile Include="07_2484_Four_dice.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
