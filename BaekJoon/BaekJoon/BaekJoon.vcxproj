@@ -129,9 +129,6 @@
   <ItemGroup>
     <ClInclude Include="01_BackPack.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="07_2484_Four_dice.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
