@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\Unreal\\BaekJoon\\BaekJoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A3B2262-ED57-4F82-8FC7-B4BDA8C3451A}|BaekJoon\\BaekJoon.vcxproj|E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\12_2355_sigma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A3B2262-ED57-4F82-8FC7-B4BDA8C3451A}|BaekJoon\\BaekJoon.vcxproj|solutionrelative:BaekJoon\\12_2355_sigma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\08_2476_dice_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaekJoon\\08_2476_dice_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -43,32 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "12_2355_sigma.cpp",
-              "DocumentMoniker": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\12_2355_sigma.cpp",
-              "RelativeDocumentMoniker": "BaekJoon\\12_2355_sigma.cpp",
-              "ToolTip": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\12_2355_sigma.cpp",
-              "RelativeToolTip": "BaekJoon\\12_2355_sigma.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-26T10:43:26.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "08_2476_dice_game.cpp",
               "DocumentMoniker": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\08_2476_dice_game.cpp",
               "RelativeDocumentMoniker": "BaekJoon\\08_2476_dice_game.cpp",
               "ToolTip": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\08_2476_dice_game.cpp",
               "RelativeToolTip": "BaekJoon\\08_2476_dice_game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxgAAAAVAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-24T12:32:07.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "07_2484_Four_dice(todo).cpp",
               "DocumentMoniker": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\07_2484_Four_dice(todo).cpp",
               "RelativeDocumentMoniker": "BaekJoon\\07_2484_Four_dice(todo).cpp",
@@ -80,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "06_2386_Dobby\u0027s_English_Lesson.cpp",
               "DocumentMoniker": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\06_2386_Dobby\u0027s_English_Lesson.cpp",
               "RelativeDocumentMoniker": "BaekJoon\\06_2386_Dobby\u0027s_English_Lesson.cpp",
@@ -92,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "05_1568_bird.cpp",
               "DocumentMoniker": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\05_1568_bird.cpp",
               "RelativeDocumentMoniker": "BaekJoon\\05_1568_bird.cpp",
@@ -104,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "04_1547_ball.cpp",
               "DocumentMoniker": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\04_1547_ball.cpp",
               "RelativeDocumentMoniker": "BaekJoon\\04_1547_ball.cpp",
@@ -116,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "02_1655_SaymiddleGame.cpp",
               "DocumentMoniker": "E:\\Unreal\\BaekJoon\\BaekJoon\\BaekJoon\\02_1655_SaymiddleGame.cpp",
               "RelativeDocumentMoniker": "BaekJoon\\02_1655_SaymiddleGame.cpp",

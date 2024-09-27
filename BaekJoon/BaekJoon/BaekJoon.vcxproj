@@ -129,9 +129,6 @@
   <ItemGroup>
     <ClInclude Include="01_BackPack.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="12_2355_sigma.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
